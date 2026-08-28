@@ -98,10 +98,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sahinidutta07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=sahinidutta07&theme=tokyonight&hide_border=false" width="49%">
+  <img src="https://github-readme-stats.shion.dev/api?username=sahinidutta07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="180">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sahinidutta07&theme=tokyonight&hide_border=false" height="180">
 </p>
 
 ---
